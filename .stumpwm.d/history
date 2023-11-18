@@ -1,0 +1,4 @@
+
+("alacritty -e htop" "pomodoro-reset " "pomodoro-cancel-timer " "pomodoro-status " "pomodoro-start-timer " "h-hernandez.png" "screenshot-window " "unfloat-this " "OTROS " "float-this " "(define-frame-preference \"OTROS\"
+			 (0 nil T :class \"thunderbird\")
+			 (1 nil T :class \"firefox\"))" "info" "FLOAT " "(smw-pomodoro:*bell-sound-file*)" "(bell-sound-file)" "area" "screenshot-area " "refresh " "casa" "lf" "prueba.png" "stumpwmemacs" "screenshot " "fullscreen " "gprev" "firefox ") 

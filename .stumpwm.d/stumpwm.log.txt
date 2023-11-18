@@ -1,0 +1,52 @@
+major on: 225 59 927 556
+loot after: 225 59 927 556
+fullscreenage: 225 59 927 556
+major on: 225 59 927 556
+loot after: 225 59 927 556
+fullscreenage: 225 59 927 556
+major on: 183 145 858 498
+loot after: 183 145 858 498
+major on: 149 149 749 447
+loot after: 149 149 749 447
+fullscreenage: 149 149 749 447
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 245 133 919 542
+loot after: 245 133 919 542
+fullscreenage: 245 133 919 542
+major on: 211 96 847 496
+loot after: 211 96 847 496
+WARNING: redefining SLYNK::SYMBOL-INDENTATION in DEFUN
+WARNING: redefining SLYNK::MACRO-INDENTATION in DEFUN
+major on: 42 49 1135 651
+loot after: 42 49 1135 651
+fullscreenage: 42 49 1135 651
+major on: 42 49 1135 651
+loot after: 42 49 1135 651
+fullscreenage: 42 49 1135 651
+WARNING: redefining SLYNK::SYMBOL-INDENTATION in DEFUN
+WARNING: redefining SLYNK::MACRO-INDENTATION in DEFUN
+major on: 76 91 1078 620
+loot after: 76 91 1078 620
+fullscreenage: 76 91 1078 620
+WARNING: redefining SLYNK::SYMBOL-INDENTATION in DEFUN
+WARNING: redefining SLYNK::MACRO-INDENTATION in DEFUN
+major on: -320 -140 1590 921
+loot after: -320 -140 1590 921
+fullscreenage: -320 -140 1590 921
+major on: -320 -140 1590 921
+loot after: -320 -140 1590 921
+fullscreenage: -320 -140 1590 921
